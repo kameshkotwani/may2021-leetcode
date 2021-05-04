@@ -1,2 +1,2 @@
-# may2021-letetcode
+# may2021-leetcode
 Solutions of May 2021 leetcode Monthly Challenge
